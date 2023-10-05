@@ -36,7 +36,7 @@
     ```
 # Note
 
-* Currently we using 0.25m bloated obstacle to avoid any collision. If Incase starting or goal position is closer than the 0.25m then append the bloating in line 35 of env3D.py. For eg
+* Currently we using 0.25m bloated obstacle to avoid any collision. If Incase starting or goal position is closer than the 0.25m then append the bloating in line 35 of env3D.py. For eg.
   ```python
   bloated_bocks = np.reshape(np.array([np.add(i[0:3], -0.25), np.add(i[3:6],  0.25)]),6)
   ```
