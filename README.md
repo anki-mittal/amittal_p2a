@@ -34,9 +34,15 @@
     starty = 20
     startz = 2
     ```
-# RESULTS
+# Results
 
+1. SIMULATION
+   -
 ![Alt Text](https://github.com/anki-mittal/planning-through-trees/blob/master/outputs/map1/ezgif-5-f7068a1501.gif)
+
+2. IMPLEMENTATION
+   -
+[![Watch the video](https://cdn.shopify.com/s/files/1/0263/8469/5395/files/Ryze-Tello-review-hover-outdoor-front-749x500.jpg)](https://youtu.be/6rkf0EhJAjg)
 
 
 
